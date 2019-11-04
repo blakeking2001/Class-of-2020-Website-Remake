@@ -1,0 +1,95 @@
+body {
+  background-color: #ffad24;
+}
+header {
+   padding: 44px;
+  text-align: center;
+  background: #0032a0;
+  color: white;
+  font-size: 30px;
+  font-family: Gill sands;
+}
+
+.header-img {
+  width: 20%;
+ margin-top: -55px;
+   margin-left:-1160px;
+}
+
+.class-of-2020{
+  margin-top: -70px;
+  margin-bottom: -60px
+}
+
+nav{
+  font-family:Gill sands;
+}
+
+.pic-four{
+  margin-top: -196px;
+}
+
+.left-pic-one{
+  margin-top: -244px;
+}
+
+.left-pic-two{
+  margin-top: -30px;
+}
+
+.left-pic-three{
+  margin-top: -198px;
+}
+
+.right-pic-one{
+  margin-top: -30px;
+}
+
+.right-pic-two{
+  margin-top: -200px;
+}
+
+.right-pic-three{
+  margin-top: -188px;
+}
+.header-two{
+  padding: 2px;
+  text-align: center;
+  background: #0032a0;
+ }
+
+.left-par-one{
+  margin-left: 80px;
+  margin-top: 180px;
+}
+
+.left-par-two{
+   margin-left: 80px;
+  margin-top: 180px;
+}
+
+.left-par-three{
+  margin-left: 210px;
+  margin-top: 190px;
+}
+
+.right-par-one{
+   margin-left: 240px;
+  margin-top: 200px;
+}
+
+.right-par-two{
+  margin-left: 200px;
+  margin-top: 150px;
+}
+
+.right-par-three{
+   margin-left: 200px;
+  margin-top: 190px;
+}
+
+footer{
+  background: #b2b4b1;
+}
+
+
